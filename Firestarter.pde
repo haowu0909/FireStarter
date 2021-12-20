@@ -33,10 +33,6 @@
         background(22);
         // switch on lights  
         lights();
-        // color for lines
-        // stroke(111);
-        // 
-        // Box: A box with equal dimension on all sides is a cube.
         pushMatrix();
         translate(258, 448, -10);
         rotateY(radians(myAngle));
